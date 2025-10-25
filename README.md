@@ -12,6 +12,8 @@ Autonomous pay-per-use infrastructure that transforms <code>HTTP 402 Payment Req
 
 ---
 
+🔗 Integrated with [Coinbase x402 Protocol](https://github.com/coinbase/x402/pull/498)
+
 ### 🚀 Overview
 402Gate brings the missing link between Web2 and Web3 turning any HTTP request into a **pay-per-use** transaction.
 No accounts, no subscriptions just instant access after micropayment.
