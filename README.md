@@ -13,12 +13,23 @@ Autonomous pay-per-use infrastructure that transforms <code>HTTP 402 Payment Req
 ---
 
 ### 🚀 Overview
-402Gate brings the missing link between Web2 and Web3 — turning any HTTP request into a **pay-per-use** transaction.
-No accounts, no subscriptions — just instant access after micropayment.
+402Gate brings the missing link between Web2 and Web3 turning any HTTP request into a **pay-per-use** transaction.
+No accounts, no subscriptions just instant access after micropayment.
 
-Built on **Solana**, it allows users and AI agents to pay per request using $402G, USDC, or SOL — verified trustlessly in seconds.
+Built on **Solana**, it allows users and AI agents to pay per request using $402G, USDC, or SOL verified trustlessly in seconds.
 
 ---
+
+## 🔗 Official Integration
+402Gate is built on top of the [x402 Protocol by Coinbase](https://github.com/coinbase/x402),
+implementing the **HTTP 402 Payment Required** standard for Web3-native micropayments.
+
+### Compatibility
+- **Protocol Base:** [coinbase/x402](https://github.com/coinbase/x402)
+- **Implementation Layer:** Solana (High-throughput & low-fee)
+- **Payment Assets:** $402G, USDC, SOL
+- **Client SDK:** [402gate/402gate-sdk](https://github.com/402gate/402gate-sdk)
+- **Server Core:** [402gate/402gate-core](https://github.com/402gate/402gate-core)
 
 ### 🧩 Core Components
 
