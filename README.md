@@ -82,3 +82,6 @@ implementing the **HTTP 402 Payment Required** standard for Web3-native micropay
 - Dashboard: 🧪 Testing phase  
 - Mainnet: 🔜 Q1 2026
 
+🔗 Integrated with [Coinbase x402 Protocol](https://github.com/coinbase/x402/pull/498)
+
+
