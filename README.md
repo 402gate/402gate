@@ -64,3 +64,10 @@ Built on **Solana**, it allows users and AI agents to pay per request using $402
 ---
 
 > “Every request is a transaction.” — 402Gate
+> ---
+### 🧭 Devnet Status
+- Protocol: ✅ Active  
+- SDK: 🚧 In development  
+- Dashboard: 🧪 Testing phase  
+- Mainnet: 🔜 Q1 2026
+
