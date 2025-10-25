@@ -3,7 +3,7 @@
 </p>
 
 
-<h1 align="center">402Gate — HTTP 402 Paywall Protocol on Solana</h1>
+<h1 align="center">402Gate HTTP 402 Paywall Protocol on Solana</h1>
 
 <p align="center">
 Autonomous pay-per-use infrastructure that transforms <code>HTTP 402 Payment Required</code> into a Web3-native payment layer.
